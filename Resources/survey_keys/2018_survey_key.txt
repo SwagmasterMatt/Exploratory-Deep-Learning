@@ -1,0 +1,654 @@
+{
+  "Q1": {
+    "Question": "I am given a real opportunity to improve my skills in my organization.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": null
+  },
+  "Q2": {
+    "Question": "I have enough information to do my job well.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": null
+  },
+  "Q3": {
+    "Question": "I feel encouraged to come up with new and better ways of doing things.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": null
+  },
+  "Q4": {
+    "Question": "My work gives me a feeling of personal accomplishment.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": null
+  },
+  "Q5": {
+    "Question": "I like the kind of work I do.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": null
+  },
+  "Q6": {
+    "Question": "I know what is expected of me on the job.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q7": {
+    "Question": "When needed I am willing to put in the extra effort to get a job done.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q8": {
+    "Question": "I am constantly looking for ways to do my job better.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q9": {
+    "Question": "I have sufficient resources (for example people materials budget) to get my job done.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q10": {
+    "Question": "My workload is reasonable.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  }
+},
+{
+  "Q11": {
+    "Question": "My talents are used well in the workplace.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": null
+  },
+  "Q12": {
+    "Question": "I know how my work relates to the agency's goals and priorities.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": null
+  },
+  "Q13": {
+    "Question": "The work I do is important.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": null
+  },
+  "Q14": {
+    "Question": "Physical conditions (for example noise level temperature lighting cleanliness in the workplace) allow employees to perform their jobs well.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": null
+  },
+  "Q15": {
+    "Question": "My performance appraisal is a fair reflection of my performance.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": null
+  },
+  "Q16": {
+    "Question": "I am held accountable for achieving results.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": null
+  },
+  "Q17": {
+    "Question": "I can disclose a suspected violation of any law, rule, or regulation without fear of reprisal.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": null
+  },
+  "Q18": {
+    "Question": "My training needs are assessed.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q19": {
+    "Question": "In my most recent performance appraisal, I understood what I had to do to be rated at different performance levels (for example, Fully Successful, Outstanding).",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "No Basis to Judge"
+  },
+  "Q20": {
+    "Question": "The people I work with cooperate to get the job done.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": null
+  }
+},
+{
+  "Q21": {
+    "Question": "My work unit is able to recruit people with the right skills.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q22": {
+    "Question": "Promotions in my work unit are based on merit.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q23": {
+    "Question": "In my work unit, steps are taken to deal with a poor performer who cannot or will not improve.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q24": {
+    "Question": "In my work unit, differences in performance are recognized in a meaningful way.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q25": {
+    "Question": "Awards in my work unit depend on how well employees perform their jobs.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q26": {
+    "Question": "Employees in my work unit share job knowledge with each other.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q27": {
+    "Question": "The skill level in my work unit has improved in the past year.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q28": {
+    "Question": "How would you rate the overall quality of work done by your work unit?",
+    "5": "Very Good",
+    "4": "Good",
+    "3": "Fair",
+    "2": "Poor",
+    "1": "Very Poor",
+    "X": null
+  },
+  "Q29": {
+    "Question": "The workforce has the job-relevant knowledge and skills necessary to accomplish organizational goals.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q30": {
+    "Question": "Employees have a feeling of personal empowerment with respect to work processes.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": null
+  }
+},
+{
+  "Q31": {
+    "Question": "Employees are recognized for providing high quality products and services.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q32": {
+    "Question": "Creativity and innovation are rewarded.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q33": {
+    "Question": "Pay raises depend on how well employees perform their jobs.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q34": {
+    "Question": "Policies and programs promote diversity in the workplace (for example, recruiting minorities and women, training in awareness of diversity issues, mentoring).",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q35": {
+    "Question": "Employees are protected from health and safety hazards on the job.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q36": {
+    "Question": "My organization has prepared employees for potential security threats.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q37": {
+    "Question": "Arbitrary action, personal favoritism, and coercion for partisan political purposes are not tolerated.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q38": {
+    "Question": "Prohibited Personnel Practices (for example, illegally discriminating for or against any employee/applicant, obstructing a person's right to compete for employment, knowingly violating veterans' preference requirements) are not tolerated.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q39": {
+    "Question": "My agency is successful at accomplishing its mission.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q40": {
+    "Question": "I recommend my organization as a good place to work.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": null
+  }
+},
+{
+  "Q41": {
+    "Question": "I believe the results of this survey will be used to make my agency a better place to work.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q42": {
+    "Question": "My supervisor supports my need to balance work and other life issues.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q43": {
+    "Question": "My supervisor/team leader provides me with opportunities to demonstrate my leadership skills.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q44": {
+    "Question": "Discussions with my supervisor/team leader about my performance are worthwhile.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q45": {
+    "Question": "My supervisor/team leader is committed to a workforce representative of all segments of society.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q46": {
+    "Question": "My supervisor/team leader provides me with constructive suggestions to improve my job performance.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q47": {
+    "Question": "Supervisors/team leaders in my work unit support employee development.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q48": {
+    "Question": "My supervisor/team leader listens to what I have to say.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": null
+  },
+  "Q49": {
+    "Question": "My supervisor/team leader treats me with respect.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": null
+  },
+  "Q50": {
+    "Question": "In the last six months, my supervisor/team leader has talked with me about my performance.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": null
+  }
+},
+{
+  "Q51": {
+    "Question": "I have trust and confidence in my supervisor.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q52": {
+    "Question": "Overall how good a job do you feel is being done by your immediate supervisor/team leader?",
+    "5": "Very Good",
+    "4": "Good",
+    "3": "Fair",
+    "2": "Poor",
+    "1": "Very Poor",
+    "X": null
+  },
+  "Q53": {
+    "Question": "In my organization leaders generate high levels of motivation and commitment in the workforce.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q54": {
+    "Question": "My organization's leaders maintain high standards of honesty and integrity.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q55": {
+    "Question": "Managers/supervisors/team leaders work well with employees of different backgrounds.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q56": {
+    "Question": "Managers communicate the goals and priorities of the organization.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q57": {
+    "Question": "Managers review and evaluate the organization's progress toward meeting its goals and objectives.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q58": {
+    "Question": "Managers promote communication among different work units (for example about projects goals needed resources).",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q59": {
+    "Question": "Managers support collaboration across work units to accomplish work objectives.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q60": {
+    "Question": "Overall how good a job do you feel is being done by the manager directly above your immediate supervisor/team leader?",
+    "5": "Very Good",
+    "4": "Good",
+    "3": "Fair",
+    "2": "Poor",
+    "1": "Very Poor",
+    "X": "Do Not Know"
+  }
+},
+{
+  "Q61": {
+    "Question": "I have a high level of respect for my organization's senior leaders.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q62": {
+    "Question": "Senior leaders demonstrate support for Work/Life programs.",
+    "5": "Strongly Agree",
+    "4": "Agree",
+    "3": "Neither Agree nor Disagree",
+    "2": "Disagree",
+    "1": "Strongly Disagree",
+    "X": "Do Not Know"
+  },
+  "Q63": {
+    "Question": "How satisfied are you with your involvement in decisions that affect your work?",
+    "5": "Very Satisfied",
+    "4": "Satisfied",
+    "3": "Neither Satisfied nor Dissatisfied",
+    "2": "Dissatisfied",
+    "1": "Very Dissatisfied",
+    "X": null
+  },
+  "Q64": {
+    "Question": "How satisfied are you with the information you receive from management on what's going on in your organization?",
+    "5": "Very Satisfied",
+    "4": "Satisfied",
+    "3": "Neither Satisfied nor Dissatisfied",
+    "2": "Dissatisfied",
+    "1": "Very Dissatisfied",
+    "X": null
+  },
+  "Q65": {
+    "Question": "How satisfied are you with the recognition you receive for doing a good job?",
+    "5": "Very Satisfied",
+    "4": "Satisfied",
+    "3": "Neither Satisfied nor Dissatisfied",
+    "2": "Dissatisfied",
+    "1": "Very Dissatisfied",
+    "X": null
+  },
+  "Q66": {
+    "Question": "How satisfied are you with the policies and practices of your senior leaders?",
+    "5": "Very Satisfied",
+    "4": "Satisfied",
+    "3": "Neither Satisfied nor Dissatisfied",
+    "2": "Dissatisfied",
+    "1": "Very Dissatisfied",
+    "X": null
+  },
+  "Q67": {
+    "Question": "How satisfied are you with your opportunity to get a better job in your organization?",
+    "5": "Very Satisfied",
+    "4": "Satisfied",
+    "3": "Neither Satisfied nor Dissatisfied",
+    "2": "Dissatisfied",
+    "1": "Very Dissatisfied",
+    "X": null
+  },
+  "Q68": {
+    "Question": "How satisfied are you with the training you receive for your present job?",
+    "5": "Very Satisfied",
+    "4": "Satisfied",
+    "3": "Neither Satisfied nor Dissatisfied",
+    "2": "Dissatisfied",
+    "1": "Very Dissatisfied",
+    "X": null
+  },
+  "Q69": {
+    "Question": "Considering everything, how satisfied are you with your job?",
+    "5": "Very Satisfied",
+    "4": "Satisfied",
+    "3": "Neither Satisfied nor Dissatisfied",
+    "2": "Dissatisfied",
+    "1": "Very Dissatisfied",
+    "X": null
+  },
+  "Q70": {
+    "Question": "Considering everything, how satisfied are you with your pay?",
+    "5": "Very Satisfied",
+    "4": "Satisfied",
+    "3": "Neither Satisfied nor Dissatisfied",
+    "2": "Dissatisfied",
+    "1": "Very Dissatisfied",
+    "X": null
+  },
+  "Q71": {
+    "Question": "Considering everything, how satisfied are you with your organization?",
+    "5": "Very Satisfied",
+    "4": "Satisfied",
+    "3": "Neither Satisfied nor Dissatisfied",
+    "2": "Dissatisfied",
+    "1": "Very Dissatisfied",
+    "X": null
+  }
+}
+
