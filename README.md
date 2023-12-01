@@ -50,14 +50,9 @@ The models developed in subsequent years demonstrated success. The null hypothes
 
 ## Discussion
 
-From the information that has been collected, there is no evidence that something like this has been done before to study HR data. There are groups within the military whose sole job is to make these predictions.
-Discusses limitations of the study.
-if continued, 
-    -We would remove space force data but could include in the model in 3-4 years when there is enough data to include
-    -Create more subgroups to break up the circumstantial bin to address the individual circumstances
-    -Clean the data to remove the ranks that don’t exist in certain branches at different years
+The collected information suggests a novel approach to studying HR data within the military, as there is no evident precedence for such an analysis. Notably, specific military units specialize in making similar predictions, indicating the significance and applicability of our endeavor. However, it's crucial to acknowledge certain limitations in our study. Moving forward, potential enhancements involve excluding Space Force data temporarily until sufficient data accumulates for inclusion in 3-4 years. Additionally, refining the model by creating more subgroups within the circumstantial bin could better address individual circumstances. Further refinement would entail cleaning the data to eliminate ranks that do not exist in specific branches during various years, ensuring a more accurate and targeted analysis.
 
 ## References
 
-https://www.opm.gov/fevs/reports/data-reports/
-https://dwp.dmdc.osd.mil/dwp/app/dod-data-reports/workforce-reports 
+- https://www.opm.gov/fevs/reports/data-reports/
+- https://dwp.dmdc.osd.mil/dwp/app/dod-data-reports/workforce-reports 
